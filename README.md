@@ -1,6 +1,6 @@
-# webhost-client
-
-Browser and node module for making API requests against [webhost-client](https://hostinger-000-rest-mock.herokuapp.com).
+#tackparhost
+the
+Browser and node module for making API requests against [tackparhost-client](https:// tackparhost.herokuapp.com).
 
 **Please note: This module uses [Popsicle](https://github.com/blakeembrey/popsicle) to make API requests. Promises must be supported or polyfilled on all target environments.**
 
