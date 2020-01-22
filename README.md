@@ -58,6 +58,7 @@ new WebhostClient({
 });
 ```
 
+
 #### Base URI Parameters
 
 If the base URI has parameters inline, you can set them by updating the `baseUriParameters` property. For example:
